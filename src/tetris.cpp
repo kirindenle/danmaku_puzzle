@@ -1,0 +1,3 @@
+﻿struct Hunter_Bullet {
+
+};
